@@ -7,12 +7,6 @@ An interactive Power BI dashboard analyzing global sneaker and streetwear sales 
 
 ---
 
-## 📊 Dashboard Preview
-
-![Sneakers & Streetwear Sales Dashboard](dashboard_preview.png)
-
----
-
 ## 📁 Project Overview
 
 | Detail | Info |
